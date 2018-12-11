@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>menu</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="24" height="24"></rect>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="menu">
+            <g id="Rectangle-+-Rectangle-Copy-+-Rectangle-Copy-+-Rectangle-+-Rectangle-+-Rectangle-Mask">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask"></g>
+                <rect id="Rectangle" fill="#999999" mask="url(#mask-2)" x="8" y="6" width="14" height="2" rx="1"></rect>
+                <rect id="Rectangle-Copy" fill="#999999" mask="url(#mask-2)" x="8" y="12" width="14" height="2" rx="1"></rect>
+                <rect id="Rectangle-Copy" fill="#999999" mask="url(#mask-2)" x="8" y="18" width="14" height="2" rx="1"></rect>
+                <rect id="Rectangle" fill="#999999" mask="url(#mask-2)" x="2" y="6" width="4" height="2" rx="1"></rect>
+                <rect id="Rectangle" fill="#999999" mask="url(#mask-2)" x="2" y="12" width="4" height="2" rx="1"></rect>
+                <rect id="Rectangle" fill="#999999" mask="url(#mask-2)" x="2" y="18" width="4" height="2" rx="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

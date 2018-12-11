@@ -1,0 +1,1 @@
+{"version":3,"file":"VoucherPayment.js","sourceRoot":"","sources":["../../../../../../Framework/src/core/entities/payments/VoucherPayment.ts"],"names":[],"mappings":"AACA,OAAO,EAAc,eAAe,EAAE,MAAM,4BAA4B,CAAC;AAGzE,MAAM,OAAO,cAAe,SAAQ,eAAuB;IAWvD,aAAa;QACT,OAAO;YACH,IAAI,EAAE,gBAAgB;YACtB,KAAK,EAAE,QAAQ;YACf,IAAI,EAAE,oBAAoB;SAC7B,CAAA;IACL,CAAC;CACJ"}

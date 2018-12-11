@@ -1,0 +1,1 @@
+{"version":3,"file":"SaveOrderDto.js","sourceRoot":"","sources":["../../../../../../Framework/src/application/orders/dtos/SaveOrderDto.ts"],"names":[],"mappings":"AAAA,MAAM,OAAO,YAAY;IACrB;QACI,IAAI,CAAC,WAAW,GAAG,EAAE,CAAC;QACtB,IAAI,CAAC,KAAK,GAAG,EAAE,CAAC;IACpB,CAAC;CA6BJ"}
